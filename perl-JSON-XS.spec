@@ -4,7 +4,7 @@
 #
 Name     : perl-JSON-XS
 Version  : 4.03
-Release  : 6
+Release  : 7
 URL      : https://cpan.metacpan.org/authors/id/M/ML/MLEHMANN/JSON-XS-4.03.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/M/ML/MLEHMANN/JSON-XS-4.03.tar.gz
 Summary  : unknown
